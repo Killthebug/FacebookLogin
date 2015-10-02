@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ab6ce3bb0d6c0edc7ed429833729fcbe74c68968.jar" />
+    </item>
+    <item
+        jar="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/pre-dexed/debug/classes-0e72dc89cd571f5d4793321626accd4fec0c54dc.jar" />
+    </item>
+    <item
+        jar="/home/troller/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cc84cf17f603c2f2e780a870171a7a81f6448d53.jar" />
+    </item>
+    <item
+        jar="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/pre-dexed/debug/classes-a5c33d0c3f8b29c8605e5c4354635e409b19dfa6.jar" />
+    </item>
+    <item
+        jar="/home/troller/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-358a48f38552ac7cb5bb25eedea5c65e5b2ac78c.jar" />
+    </item>
+    <item
+        jar="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/troller/Documents/SSAD_PROJ/test_login/FacebookLogin/app/build/intermediates/pre-dexed/debug/classes-dc68d5c24201d436fcd1d01771e6cb9230b2bbef.jar" />
+    </item>
+
+</items>
