@@ -9,7 +9,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "net.simplifiedcoding.androidlogin"
+        applicationId "net.project.movieo"
         minSdkVersion 15
         targetSdkVersion 21
         versionCode 1

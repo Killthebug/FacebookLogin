@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidlogin;
+package net.project.movieo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

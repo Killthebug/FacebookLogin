@@ -1,4 +1,4 @@
-package net.simplifiedcoding.androidlogin;
+package net.project.movieo;
 
 import android.content.Intent;
 import android.support.v4.app.Fragment;
